@@ -10,7 +10,7 @@ Luca Worbis<sup>1</sup>,
 [![arXiv](https://img.shields.io/badge/arXiv-2510.09459-red)](https://arxiv.org/abs/2510.09459)
 [![Website](https://img.shields.io/badge/Website-FIPER-blue)](https://tum-lsy.github.io/fiper_website/)
 [![PyTorch](https://img.shields.io/badge/Python-PyTorch-orange.svg)](https://www.pytorch.org)
-<!-- [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtube.com) -->
+[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/BTNQlxf57jU)
 
 The official code repository for *"Failure Prediction at Runtime for Generative Robot Policies,"* accepted to NeurIPS 2025.
 
